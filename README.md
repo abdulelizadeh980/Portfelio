@@ -2,7 +2,7 @@
 
 This project delivers an advanced analytical solution using **Power BI** to analyze **Mega Bank's ATM transactions**. The dashboard offers a detailed overview of customer behaviors, ATM usage patterns, transaction types, and performance metrics—empowering strategic decision-making and operational optimization.
 
-![Dashboard Preview](./17518c2c-c738-4822-aecf-b69f5ca0963a.png)
+![Dashboard Preview](./Portfelio%20screenshot%20from%20Power%20BI.png)
 
 ---
 
